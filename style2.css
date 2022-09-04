@@ -1,0 +1,129 @@
+h1{
+    text-align: center;
+    text-transform: u;
+    text-decoration: rgb(6, 30, 243);
+    text-shadow: 3px 3px 2px rgb(233, 86, 86);
+    
+}
+h3{
+    text-align: center;
+    text-decoration: rgb(201, 241, 3);
+    text-shadow: 3px 3px 2px rgb(86, 125, 233);
+    
+}
+h2{
+    text-align: center;
+}
+.background{
+    background-image: url("https://www.hamilton-medical.com/.imaging/stk/hamilton-theme/text-backgroundimage-tablet/dam/Images/A-Pictures/Home/covid-19-header-2000x769.jpg/jcr:content/covid-19-header-2000x769.jpg.2020-03-20-09-55-30.jpg");
+    height: 1000px;
+    width: 1100px;
+    background-attachment: fixed;
+}
+.full{
+   
+    background-color: #c9f5f3;
+    
+    padding: 18px;
+    border: 10px solid black;
+    margin: 20px;
+}
+
+
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button1 {background-color: #18e7dd;} /* Green */
+ 
+
+  body {
+    background-image: url("https://image.slidesharecdn.com/cdhmeeting3-leet-hacker-120314155528-phpapp02/85/leethacker-12-320.jpg?cb=1659377263");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+  }
+  
+
+  .f {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    height: 70px;
+    width: 60px;
+  }
+h1{
+    
+    text-align: center;
+    color: rgb(245, 4, 153);
+    text-shadow: 2px 3px 3px rgb(17, 0, 255);
+}
+.bigb{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    border:2px red;
+    flex-wrap: wraps;
+    align-content: flex-start;
+}
+.bigbc{
+    padding: 5px;
+    margin: 2px;
+    height: 500px;
+    width: 800px;
+    border-radius: 10px;
+    
+    
+    color: rgb(3, 3, 3);
+   
+    border: 2px solid red;
+    border-width: bold;
+    
+    
+}
+#bigbc1{
+    background-color: rgb(223, 223, 255);
+   
+}
+#bigbc2{
+    background-color: rgb(223, 223, 255);
+   
+}
+#bigbc3{
+    background-color: rgb(223, 223, 255);
+}
+#bigbc4{
+    background-color: rgb(223, 223, 255);
+}
+#bigbc5{
+    background-color: rgb(223, 223, 255);
+}
+#bigbc6{
+    background-color: rgb(223, 223, 255);
+}
+
+@media screen and (max-width: 950px) {
+    p{
+        font-size: 10px;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    p{
+        font-size: 8px;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    p{
+        font-size: 7px;
+    }
+  }

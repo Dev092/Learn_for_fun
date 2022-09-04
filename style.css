@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    text-transform: u;
+    text-decoration: rgb(6, 30, 243);
+    text-shadow: 3px 3px 2px rgb(0, 64, 255);
+}
+img1{
+    align-content: center;
+}
+
+.background{
+    background-image: url("https://www.hamilton-medical.com/.imaging/stk/hamilton-theme/text-backgroundimage-tablet/dam/Images/A-Pictures/Home/covid-19-header-2000x769.jpg/jcr:content/covid-19-header-2000x769.jpg.2020-03-20-09-55-30.jpg");
+    height: 1000px;
+    width: 1100px;
+    background-attachment: fixed;
+}
+
